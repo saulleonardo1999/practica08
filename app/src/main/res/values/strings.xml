@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Práctica SQLite</string>
+    <string name="label">REGISTRAR USUARIO</string>
+</resources>
